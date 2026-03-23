@@ -3,7 +3,7 @@
 Improving the diagnostic capability of RNA-seq for rare disease.
 
 <p align="center">
-  <img src="images/logo.png" alt="Project logo" width="600">
+  <img src="images/logo.png" alt="Project logo" width="800">
 </p>
 
 ---
